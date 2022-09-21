@@ -1,7 +1,7 @@
 ### Ola mundo!! Eu sou João Teves
 
 
-- 🔭 Cursei sistemas de informação na federal de sergipe e atualmente estou cursando análise e desenvolvimeno de sistemas e desenvolvendo alguns projetos pessoais
+- 🔭 Cursei sistemas de informação na federal de sergipe (incompleto) e atualmente estou cursando análise e desenvolvimeno de sistemas e desenvolvendo alguns projetos pessoais
 - 🌱 Em paralelo, estudando bastante desenvolvimento web juntamente com Python
 - 😄 Embora não seja muito ativo aqui, a probabilidade de nos próximos meses estar postando bastante projetos no modo público é muito grande (somando mais com a comunidade de desenvolvimento e com o github copilot também haha).
 
