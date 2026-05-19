@@ -1,6 +1,6 @@
 ### Hello world!
 
-# ⚡ João Teves de Lacerda Neto
+# ⚡ João Teves 
 ### **CTO | Full-Stack Software Architect | Tech Venture Builder**
 
 ---
