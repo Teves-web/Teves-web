@@ -34,7 +34,7 @@ Sou um engenheiro de software e estrategista focado em construir infraestruturas
 
 ### 🌐 Conecte-se Comigo
 *   **Website:** [nexvlon.com](https://nexvlon.com)
-*   **Brasil Tech News:** [noticias.nexvlon.com]((https://noticias.nexvlon.com/))
+*   **Portal de Notícias:** [noticias.nexvlon.com](https://noticias.nexvlon.com)
 *   **SaaS:** [saleslink.nexvlon.com](https://saleslink.nexvlon.com)
 
 ```bash
