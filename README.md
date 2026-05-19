@@ -1,4 +1,4 @@
-### Olá mundo!
+### Hello world!
 
 # ⚡ João Teves de Lacerda Neto
 ### **CTO | Full-Stack Software Architect | Tech Venture Builder**
@@ -6,11 +6,11 @@
 ---
 
 ## 🌌 Overview
-Sou um engenheiro de software e estrategista focado em construir infraestruturas digitais de alta performance, automações inteligentes e ecossistemas escaláveis. Como fundador da **Nexvlon**, desenvolvo soluções que unem arquitetura robusta, interfaces de alto padrão e inteligência de negócios.
+I am a software engineer and strategist focused on building high-performance digital infrastructure, intelligent automation, and scalable ecosystems. As the founder of **Nexvlon**, I design solutions that bridge robust backend architecture, high-end interfaces, and core business intelligence.
 
 *   🖥️ **Core Stack:** React, Node.js, Tailwind CSS & Supabase.
-*   🎮 **3D & Experiências Imersivas:** WebGL, Three.js & React Three Fiber.
-*   ⚙️ **Foco Atual:** Escala de plataformas SaaS, automação inteligente e sistemas operacionais de performance comercial.
+*   🎮 **3D & Immersive Tech:** WebGL, Three.js & React Three Fiber.
+*   ⚙️ **Current Focus:** Scaling SaaS platforms, advanced data automation, and commercial performance operating systems.
 
 ---
 
@@ -25,17 +25,17 @@ Sou um engenheiro de software e estrategista focado em construir infraestruturas
 
 ---
 
-## 🔮 Projetos em Destaque
+## 🔮 Featured Projects
 
-*   **Nexvlon:** Holding de tecnologia e venture builder focada em desenvolver o futuro da infraestrutura digital e vestuário techwear.
-*   **SalesLink:** Um verdadeiro *Elite Command Center* para escala digital. Sistema operacional avançado focado em ingestão de dados em tempo real, atribuição de performance e automação inteligente.
+*   **Nexvlon:** A tech holding and venture builder focused on engineering the future of digital infrastructure and premium techwear.
+*   **SalesLink:** A true *Command Center* for digital scale. An advanced operating system focused on real-time data ingestion, performance attribution, and smart marketing automation.
 
 ---
 
-### 🌐 Conecte-se Comigo
+### 🌐 Connect with Me
 *   **Website:** [nexvlon.com](https://nexvlon.com)
-*   **Portal de Notícias:** [noticias.nexvlon.com](https://noticias.nexvlon.com)
-*   **SaaS:** [saleslink.nexvlon.com](https://saleslink.nexvlon.com)
+*   **Tech News Portal:** [noticias.nexvlon.com](https://noticias.nexvlon.com)
+*   **SaaS Platform:** [saleslink.nexvlon.com](https://saleslink.nexvlon.com)
 
 ```bash
 $ npx nexvlon --status
