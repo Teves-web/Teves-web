@@ -32,15 +32,6 @@ Sou um engenheiro de software e estrategista focado em construir infraestruturas
 
 ---
 
-## 📊 GitHub Stats & Metrics
-
-<div align="left">
-  <a href="[https://github.com/Teves-web](https://github.com/Teves-web)">
-    <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=Teves-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Teves-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)"/>
-    <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Teves-web&layout=compact&langs_count=7&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=Teves-web&layout=compact&langs_count=7&theme=tokyonight)"/>
-  </a>
-</div>
-
 <br>
 
 <div style="display: inline-block">
